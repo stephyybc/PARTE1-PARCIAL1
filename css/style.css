@@ -14,3 +14,18 @@ h1 {
     mask-type: alpha;
     color: black;
 }
+.img {
+    width: 5px;
+    border: double;
+}
+h3{
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-weight: bold;
+}
+.footer{
+    margin: 50px;
+}
