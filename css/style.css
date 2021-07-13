@@ -3,6 +3,14 @@ header {
     background-color: bisque;
 }
 body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
     align-content: center;
     background-color: beige;
+}
+h1 {
+    mask-type: alpha;
+    color: black;
 }
